@@ -25,8 +25,7 @@
 - **BC01** : concevoir et réaliser des interfaces utilisateur adaptatives et interactives front-end.
 - Épreuve **individuelle**, **4 heures**, sur ordinateur, **sans framework ni bibliothèque externe** (HTML5, CSS3, JavaScript ES6+ natif).
 - **Livrable** : le code produit, plus ce que le sujet demande (souvent README, parfois captures d'écran).
-- **IA autorisée** par le prof. La déclarer dans le README (section « Utilisation de l'IA »). Rayane doit comprendre et savoir expliquer chaque partie du code.
-- Compétences évaluées : C1 à C5.
+- **IA autorisée** par le prof.
 
 ---
 
